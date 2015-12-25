@@ -4,8 +4,15 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 14:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 11:17:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Sweetness of seeking]]></title>
+            <description><![CDATA[<article><h1>The Sweetness of seeking</h1><p>How do I give up   </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e98de9-5f85-4d70-a5dc-37740488eb2f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/the-sweetness-of-seeking/index.html</link>
+            <guid isPermaLink="false">30361d64-31b8-4b83-bdf0-16b31d64a165</guid>
+            <pubDate>Fri, 25 Dec 2015 11:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 2]]></title>
             <description><![CDATA[<article><h1>Test 2</h1><p>Test2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/893c5f15249cf111a378689d88bc5b768aa9ffc9.jpg"></article>]]></description>
