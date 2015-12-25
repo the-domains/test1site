@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:20:53.095Z'
-dateModified: '2015-12-25T11:20:50.655Z'
+datePublished: '2015-12-25T11:27:42.919Z'
+dateModified: '2015-12-25T11:27:38.497Z'
 title: The Sweetness of seeking
 author: []
 sourcePath: _posts/2015-12-25-the-sweetness-of-seeking.md
