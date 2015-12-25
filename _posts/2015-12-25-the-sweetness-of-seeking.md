@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:20:01.735Z'
-dateModified: '2015-12-25T11:19:58.131Z'
+datePublished: '2015-12-25T11:20:53.095Z'
+dateModified: '2015-12-25T11:20:50.655Z'
 title: The Sweetness of seeking
 author: []
 sourcePath: _posts/2015-12-25-the-sweetness-of-seeking.md
