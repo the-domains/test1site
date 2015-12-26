@@ -4,8 +4,15 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 14:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 21:31:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Dreams have come]]></title>
+            <description><![CDATA[<article><h1>My Dreams have come</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/422b466bb28efd820902fd5dbd019faf0a56fbac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/my-dreams-have-come/index.html</link>
+            <guid isPermaLink="false">26c0e944-626d-4459-b6cb-8b348777f7e4</guid>
+            <pubDate>Sat, 26 Dec 2015 21:31:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Passion changes things]]></title>
             <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b973bc5d894804119cc16fca426c7233/croprotate.jpg?cropheight=3798&cropwidth=2967&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F36f844c6-3fd5-4514-b5e1-9ecf52e74d1c.jpg&x=0&y=0"></article>]]></description>
