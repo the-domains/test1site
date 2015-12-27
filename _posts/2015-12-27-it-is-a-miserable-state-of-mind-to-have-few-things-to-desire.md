@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T17:02:29.218Z'
-dateModified: '2015-12-27T17:02:23.801Z'
+datePublished: '2015-12-27T17:17:54.371Z'
+dateModified: '2015-12-27T17:17:50.460Z'
 title: Its divine Fashion
 author: []
 sourcePath: _posts/2015-12-27-it-is-a-miserable-state-of-mind-to-have-few-things-to-desire.md
@@ -40,4 +40,4 @@ worry not,
 
 just return and alter 
 
-to the love you forgot. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92baf5eba0c35f0227acd69bcdb4b8deb379a71c.jpg)
+to the love you forgot. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5101310823f10ba5648338bf16adc2ffc6c1ebb3.jpg)
