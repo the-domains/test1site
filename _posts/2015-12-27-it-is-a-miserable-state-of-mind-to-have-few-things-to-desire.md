@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T15:54:22.862Z'
-dateModified: '2015-12-27T15:54:12.348Z'
-title: 'It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon '
+datePublished: '2015-12-27T16:57:19.126Z'
+dateModified: '2015-12-27T16:57:14.809Z'
+title: Its divine Fashion
 author: []
 sourcePath: _posts/2015-12-27-it-is-a-miserable-state-of-mind-to-have-few-things-to-desire.md
 published: true
@@ -40,4 +40,4 @@ worry not,
 
 just return and alter 
 
-to the love you forgot. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68802842-609c-4f90-b1d0-2ad60589ca01.jpg)
+to the love you forgot. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ec9c3ed44f757dbb6cc82398940112ee8176db9.jpg)
