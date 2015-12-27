@@ -4,11 +4,18 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 21:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 15:47:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon ]]></title>
+            <description><![CDATA[<article><h1>It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ec9c3ed44f757dbb6cc82398940112ee8176db9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/it-is-a-miserable-state-of-mind-to-have-few-things-to-desire/index.html</link>
+            <guid isPermaLink="false">da5f3e04-8e25-4a74-92f8-f8458119ca59</guid>
+            <pubDate>Sun, 27 Dec 2015 15:47:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My Dreams have come]]></title>
-            <description><![CDATA[<article><h1>My Dreams have come</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/422b466bb28efd820902fd5dbd019faf0a56fbac.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>My Dreams have come</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03d48ba957f20073e4b9765686112abbb1e30e28.jpg"></article>]]></description>
             <link>https://thegrid.ai/test1site/my-dreams-have-come/index.html</link>
             <guid isPermaLink="false">26c0e944-626d-4459-b6cb-8b348777f7e4</guid>
             <pubDate>Sat, 26 Dec 2015 21:31:47 GMT</pubDate>
