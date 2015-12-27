@@ -6,38 +6,38 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T15:47:18.701Z'
-dateModified: '2015-12-27T15:47:01.372Z'
+datePublished: '2015-12-27T15:54:22.862Z'
+dateModified: '2015-12-27T15:54:12.348Z'
 title: 'It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon '
 author: []
+sourcePath: _posts/2015-12-27-it-is-a-miserable-state-of-mind-to-have-few-things-to-desire.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-it-is-a-miserable-state-of-mind-to-have-few-things-to-desire.md
-published: true
 url: it-is-a-miserable-state-of-mind-to-have-few-things-to-desire/index.html
 _type: Article
 
 ---
-# It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon 
+It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon 
 
-# Articulated in divine fashion, 
+Articulated in divine fashion, 
 
-# first, live in desire, 
+first, live in desire, 
 
-# until your passion catches fire. 
+until your passion catches fire. 
 
-# Then, spare no ration, 
+Then, spare no ration, 
 
-# merely live that inspired desire. 
+merely live that inspired desire. 
 
-# And, if you falter 
+And, if you falter 
 
-# worry not, 
+worry not, 
 
-# just return and alter 
+just return and alter 
 
-# to the love you forgot. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68802842-609c-4f90-b1d0-2ad60589ca01.jpg)
+to the love you forgot. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68802842-609c-4f90-b1d0-2ad60589ca01.jpg)
