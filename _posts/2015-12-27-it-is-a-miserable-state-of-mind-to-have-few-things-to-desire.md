@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T17:17:54.371Z'
-dateModified: '2015-12-27T17:17:50.460Z'
+datePublished: '2015-12-28T17:40:44.158Z'
+dateModified: '2015-12-28T17:40:39.361Z'
 title: Its divine Fashion
 author: []
 sourcePath: _posts/2015-12-27-it-is-a-miserable-state-of-mind-to-have-few-things-to-desire.md
@@ -22,22 +22,24 @@ url: it-is-a-miserable-state-of-mind-to-have-few-things-to-desire/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/419eb8c7-0d3b-453d-9415-75eba5ab5540.jpg)
+
 It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon 
 
-Articulated in divine fashion, 
+_Articulated in divine fashion, _
 
-first, live in desire, 
+_first, live in desire, _
 
-until your passion catches fire. 
+_until your passion catches fire. _
 
-Then, spare no ration, 
+_Then, spare no ration, _
 
-merely live that inspired desire. 
+_merely live that inspired desire. _
 
-And, if you falter 
+_And, if you falter _
 
-worry not, 
+_worry not, _
 
-just return and alter 
+_just return and alter _
 
-to the love you forgot. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5101310823f10ba5648338bf16adc2ffc6c1ebb3.jpg)
+_to the love you forgot. _
