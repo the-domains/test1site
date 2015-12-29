@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T15:13:50.251Z'
-dateModified: '2015-12-29T15:13:32.517Z'
+datePublished: '2015-12-29T15:15:49.998Z'
+dateModified: '2015-12-29T15:15:47.343Z'
 title: The Sweetness of seeking
 author: []
 sourcePath: _posts/2015-12-25-the-sweetness-of-seeking.md
@@ -19,13 +19,15 @@ publisher:
   url: null
   favicon: null
 url: the-sweetness-of-seeking/index.html
-_type: WebPage
+_type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf2a52cd76395f512f4e9b64094fcda3786b599.jpg)
+
 How do I give up   
 
 the sweetness of seeking? 
 
 Let allowing envelop, 
 
-and hear silence speaking...     ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b080375845fa80fb4f3a44d3c6b498431510e6b9.jpg)
+and hear silence speaking...
