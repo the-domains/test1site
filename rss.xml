@@ -4,7 +4,7 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 10:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 15:14:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Its divine Fashion]]></title>
@@ -22,17 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Passion changes things]]></title>
-            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b973bc5d894804119cc16fca426c7233/croprotate.jpg?cropheight=3798&cropwidth=2967&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F36f844c6-3fd5-4514-b5e1-9ecf52e74d1c.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b24721683e9584ac30b67b8051e86c8d09671e47.jpg"></article>]]></description>
             <link>https://thegrid.ai/test1site/passion-changes-things/index.html</link>
             <guid isPermaLink="false">2b0e4aaf-6750-494f-9acb-628ae925ead8</guid>
             <pubDate>Tue, 29 Dec 2015 10:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sweetness of seeking]]></title>
-            <description><![CDATA[<article><h1>The Sweetness of seeking</h1><p>How do I give up   </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf2a52cd76395f512f4e9b64094fcda3786b599.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/the-sweetness-of-seeking/index.html</link>
-            <guid isPermaLink="false">30361d64-31b8-4b83-bdf0-16b31d64a165</guid>
-            <pubDate>Sun, 27 Dec 2015 17:16:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test 2]]></title>
