@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T18:07:12.557Z'
-dateModified: '2015-12-24T19:52:13.358Z'
+datePublished: '2015-12-30T19:30:25.541Z'
+dateModified: '2015-12-30T19:30:20.834Z'
 title: "Nobody's Dinner"
 author: []
 sourcePath: _posts/2015-12-23-nobodys-dinner.md
@@ -22,6 +22,8 @@ url: nobodys-dinner/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/525c40b82b0cabc18d78bfa7fcebf828f7dc90fe.jpg)
+
 Nobody's Dinner
 
 I'm 
@@ -36,4 +38,4 @@ I've finally reconciled
 
 my outer 
 
-with my inner. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5ca46f6-9449-4095-8946-5ae9184c2fe8.jpg)
+with my inner.
