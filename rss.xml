@@ -4,11 +4,18 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 11:21:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Advantages]]></title>
+            <description><![CDATA[<article><h1>Advantages</h1><p>It is the greatest of all advantages to enjoy no advantage at all. - Henry David Thoreau.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d11a5b7433213502875ff4cdc61c8e2b2c683e7f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/advantages/index.html</link>
+            <guid isPermaLink="false">88a4fddd-00d9-4d4e-b418-b7a540bc74bc</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I see my Breath]]></title>
-            <description><![CDATA[<article><h1>I see my Breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287bdf6e569b22e6528f122fa99929e3938cde46.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I see my Breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b654d1d3bf11a66707f22c228c23bc2b083dbbe.jpg"></article>]]></description>
             <link>https://thegrid.ai/test1site/i-see-my-breath/index.html</link>
             <guid isPermaLink="false">8319f6d2-8ca4-4134-a688-ec24aab87c0b</guid>
             <pubDate>Fri, 08 Jan 2016 11:20:28 GMT</pubDate>
@@ -44,7 +51,7 @@ we can try to hide,
 but through love you'll surrender
 and no matter how well alibied,  
 it will unmask the great pretender.
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f41731d0f6b7930e7e0172f9a77591ee2c6b6380.jpg"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96752ff4a0e7d49c1efd06641d57606000f09b8.jpg"></article>]]></description>
             <link>https://thegrid.ai/test1site/the-great-pretender/index.html</link>
             <guid isPermaLink="false">f3437688-01cf-4b66-a2ad-3827a17fcab1</guid>
             <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
@@ -106,13 +113,6 @@ just the 2 of us. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <link>https://thegrid.ai/test1site/the-sweetness-of-seeking/index.html</link>
             <guid isPermaLink="false">30361d64-31b8-4b83-bdf0-16b31d64a165</guid>
             <pubDate>Tue, 29 Dec 2015 15:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Its divine Fashion]]></title>
-            <description><![CDATA[<article><h1>Its divine Fashion</h1><p>It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f73ba21205cfeaa83f9c2169e454350669d67b25.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/it-is-a-miserable-state-of-mind-to-have-few-things-to-desire/index.html</link>
-            <guid isPermaLink="false">da5f3e04-8e25-4a74-92f8-f8458119ca59</guid>
-            <pubDate>Wed, 30 Dec 2015 19:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
