@@ -4,8 +4,52 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 11:21:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the great pretender]]></title>
+            <description><![CDATA[<article><h1>the great pretender</h1><p>Silly me
+I thought I had to 
+force my way in.
+That I had to 
+break the door down,
+not knowing 
+that its always open,
+and its not a verb, 
+its a noun.
+ 
+I would see that door,
+in shadowy contour.
+Just slightly ajar.
+And many times before,
+I'd get close, but no cigar.
+
+Unaware, that;
+waiting in the dream, 
+for the dreamer to accept,
+is his role 
+in this grand scheme.
+Waiting so patiently, 
+where certainty is kept.         
+ 
+From here to the other side,        
+we can try to hide,
+but through love you'll surrender
+and no matter how well alibied,  
+it will unmask the great pretender.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e9e4dfc897acd966238254646e6f6a5058c5e41.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/the-great-pretender/index.html</link>
+            <guid isPermaLink="false">f3437688-01cf-4b66-a2ad-3827a17fcab1</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love]]></title>
+            <description><![CDATA[<article><h1>Love</h1><p>nor was it 
+any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30f315c0fce7ab2971379c44ee9207855014180.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/love/index.html</link>
+            <guid isPermaLink="false">6312e602-7a39-4179-8f66-8daddb6032ad</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Big Brother]]></title>
             <description><![CDATA[<article><h1>Big Brother</h1><p>Life, love and laughter
@@ -69,20 +113,6 @@ just the 2 of us. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <link>https://thegrid.ai/test1site/my-dreams-have-come/index.html</link>
             <guid isPermaLink="false">26c0e944-626d-4459-b6cb-8b348777f7e4</guid>
             <pubDate>Sat, 26 Dec 2015 21:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passion changes things]]></title>
-            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b24721683e9584ac30b67b8051e86c8d09671e47.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/passion-changes-things/index.html</link>
-            <guid isPermaLink="false">2b0e4aaf-6750-494f-9acb-628ae925ead8</guid>
-            <pubDate>Tue, 29 Dec 2015 10:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test 2]]></title>
-            <description><![CDATA[<article><h1>Test 2</h1><p>Test2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e2a52ac91690d12ccaaba347f022b406b721db0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/test-2/index.html</link>
-            <guid isPermaLink="false">d9027f41-f5c6-4b64-8322-cdd4f4134ea0</guid>
-            <pubDate>Sun, 27 Dec 2015 17:16:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
