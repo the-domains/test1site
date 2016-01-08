@@ -4,8 +4,26 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 11:21:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love]]></title>
+            <description><![CDATA[<article><h1>Love</h1><p>nor was it 
+any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30f315c0fce7ab2971379c44ee9207855014180.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/love/index.html</link>
+            <guid isPermaLink="false">6312e602-7a39-4179-8f66-8daddb6032ad</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Brother]]></title>
+            <description><![CDATA[<article><h1>Big Brother</h1><p>Life, love and laughter
+and meaningful relations
+its what we're all after
+with sibling foundations</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13bdc85258f61b4284513dca156ef482ec371c2d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/big-brother/index.html</link>
+            <guid isPermaLink="false">d25ae8a9-3d0a-4c8d-8e51-247d07bf712c</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good news]]></title>
             <description><![CDATA[<article><h1>Good news</h1><p>The bad news is nothing lasts forever,
@@ -66,20 +84,6 @@ just the 2 of us. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <link>https://thegrid.ai/test1site/passion-changes-things/index.html</link>
             <guid isPermaLink="false">2b0e4aaf-6750-494f-9acb-628ae925ead8</guid>
             <pubDate>Tue, 29 Dec 2015 10:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test 2]]></title>
-            <description><![CDATA[<article><h1>Test 2</h1><p>Test2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e2a52ac91690d12ccaaba347f022b406b721db0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/test-2/index.html</link>
-            <guid isPermaLink="false">d9027f41-f5c6-4b64-8322-cdd4f4134ea0</guid>
-            <pubDate>Sun, 27 Dec 2015 17:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[test 1]]></title>
-            <description><![CDATA[<article><h1>test 1</h1><p>A Test 1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f037596647437ca317d01f0a0ef1dd6716713e95.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/test-1/index.html</link>
-            <guid isPermaLink="false">28c890cb-c742-4359-a161-f68d4e4c44eb</guid>
-            <pubDate>Wed, 23 Dec 2015 14:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
