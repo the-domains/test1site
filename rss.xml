@@ -4,16 +4,8 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 11:21:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Love]]></title>
-            <description><![CDATA[<article><h1>Love</h1><p>nor was it 
-any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30f315c0fce7ab2971379c44ee9207855014180.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/love/index.html</link>
-            <guid isPermaLink="false">6312e602-7a39-4179-8f66-8daddb6032ad</guid>
-            <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Big Brother]]></title>
             <description><![CDATA[<article><h1>Big Brother</h1><p>Life, love and laughter
@@ -84,6 +76,13 @@ just the 2 of us. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <link>https://thegrid.ai/test1site/passion-changes-things/index.html</link>
             <guid isPermaLink="false">2b0e4aaf-6750-494f-9acb-628ae925ead8</guid>
             <pubDate>Tue, 29 Dec 2015 10:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test 2]]></title>
+            <description><![CDATA[<article><h1>Test 2</h1><p>Test2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e2a52ac91690d12ccaaba347f022b406b721db0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/test-2/index.html</link>
+            <guid isPermaLink="false">d9027f41-f5c6-4b64-8322-cdd4f4134ea0</guid>
+            <pubDate>Sun, 27 Dec 2015 17:16:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
