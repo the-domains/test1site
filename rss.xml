@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 08 Jan 2016 11:21:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[I see my Breath]]></title>
+            <description><![CDATA[<article><h1>I see my Breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287bdf6e569b22e6528f122fa99929e3938cde46.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/i-see-my-breath/index.html</link>
+            <guid isPermaLink="false">8319f6d2-8ca4-4134-a688-ec24aab87c0b</guid>
+            <pubDate>Fri, 08 Jan 2016 11:20:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[the great pretender]]></title>
             <description><![CDATA[<article><h1>the great pretender</h1><p>Silly me
 I thought I had to 
@@ -37,7 +44,7 @@ we can try to hide,
 but through love you'll surrender
 and no matter how well alibied,  
 it will unmask the great pretender.
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e9e4dfc897acd966238254646e6f6a5058c5e41.jpg"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f41731d0f6b7930e7e0172f9a77591ee2c6b6380.jpg"></article>]]></description>
             <link>https://thegrid.ai/test1site/the-great-pretender/index.html</link>
             <guid isPermaLink="false">f3437688-01cf-4b66-a2ad-3827a17fcab1</guid>
             <pubDate>Fri, 08 Jan 2016 11:20:27 GMT</pubDate>
@@ -106,13 +113,6 @@ just the 2 of us. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <link>https://thegrid.ai/test1site/it-is-a-miserable-state-of-mind-to-have-few-things-to-desire/index.html</link>
             <guid isPermaLink="false">da5f3e04-8e25-4a74-92f8-f8458119ca59</guid>
             <pubDate>Wed, 30 Dec 2015 19:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Dreams have come]]></title>
-            <description><![CDATA[<article><h1>My Dreams have come</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03d48ba957f20073e4b9765686112abbb1e30e28.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/my-dreams-have-come/index.html</link>
-            <guid isPermaLink="false">26c0e944-626d-4459-b6cb-8b348777f7e4</guid>
-            <pubDate>Sat, 26 Dec 2015 21:31:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
