@@ -23,6 +23,6 @@ color:
     - '#1a0500'
   brandStrength: 0.3125
   lightness: 0.625
-  saturation: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
