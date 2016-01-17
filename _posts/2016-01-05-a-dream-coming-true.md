@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:08:58.742Z'
-dateModified: '2016-01-17T14:08:54.278Z'
+datePublished: '2016-01-17T16:42:13.978Z'
+dateModified: '2016-01-17T16:41:57.052Z'
 title: a dream coming true
 author: []
 sourcePath: _posts/2016-01-05-a-dream-coming-true.md
@@ -26,22 +26,22 @@ _type: Article
 
 "Dive into your heart center. Sit in the silence. Desire self-realization with all your heart, with all your mind, and all your soul. Everything will take care of itself." - Robert Adams 
 
-Is there anything 
+_Is there anything _
 
-more beautiful 
+_more beautiful _
 
-than a dream, 
+_than a dream, _
 
-well expressed, 
+_well expressed,_
 
-and then becoming? 
+_and then becoming?_
 
-Its a magical quest, 
+_Its a magical quest, _
 
-with reality succumbing 
+_with reality succumbing _
 
-to an effortless molding 
+_to an effortless molding _
 
-and the present 
+_and the present _
 
-so perfectly unfolding?
+_so perfectly unfolding? _
