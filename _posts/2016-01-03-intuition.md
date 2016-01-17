@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:10:34.837Z'
+datePublished: '2016-01-17T14:10:34.885Z'
 dateModified: '2016-01-17T14:10:32.402Z'
 title: 'Intuition '
 author: []
