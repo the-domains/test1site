@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T11:20:27.550Z'
-dateModified: '2016-01-04T11:46:46.158Z'
+datePublished: '2016-01-17T14:11:34.801Z'
+dateModified: '2016-01-17T14:10:54.712Z'
 title: the great pretender
 author: []
 sourcePath: _posts/2015-12-31-the-great-pretender.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-great-pretender/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c44330af6f626a33531d580e20ea62128aec18b.jpg)
