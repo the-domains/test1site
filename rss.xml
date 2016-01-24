@@ -4,8 +4,15 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 11:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 15:24:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a dream coming true]]></title>
+            <description><![CDATA[<article><h1>a dream coming true</h1><p>Is there anything </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88942bfbe2b44ba63a9918dab1949c5eb6046128.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test1site/a-dream-coming-true/index.html</link>
+            <guid isPermaLink="false">f2e6a450-e345-4817-b539-43156f93364e</guid>
+            <pubDate>Sun, 24 Jan 2016 15:24:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Sun, The Moon, The Stars, and Maya]]></title>
             <description><![CDATA[<article><h1>The Sun, The Moon, The Stars, and Maya</h1><p>Video Trailer for the Book The Sun, the Moon, the Stars and Maya a very special book unique in format, richly textured with full color original illustrations using famous quotes as inspirations for short lyrical interpretations by Maya the magical puppy who speaks in rhyme all the time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c620958b7f9689d413a4a35033b7ffe7ee20960.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Embrace Every Step]]></title>
-            <description><![CDATA[<article><h1>Embrace Every Step</h1><p>Our third book, Embrace Every Step, life is a dance - is being published and will be released in a week or so - This song was written and sung by my publisher after viewing my submission for edits. Thank you for watching.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Embrace Every Step</h1><p>Our third book, Embrace Every Step, life is a dance - is being published and will be released in a week or so - This song was written and sung by my publisher after viewing my submission for edits. Thank you for watching.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a182c96de2d8fa48334b7147ca0b477858581bb.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=b4C2r9z-bZk</link>
             <guid isPermaLink="false">fdda562e-9b7a-42c7-a11c-a96086641c0d</guid>
             <pubDate>Sat, 23 Jan 2016 11:16:04 GMT</pubDate>
