@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T15:17:54.368Z'
-dateModified: '2016-01-24T15:17:49.367Z'
+datePublished: '2016-01-24T15:24:06.869Z'
+dateModified: '2016-01-24T15:24:03.939Z'
 title: a dream coming true
 author: []
 sourcePath: _posts/2016-01-05-a-dream-coming-true.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-dream-coming-true/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24829036-76da-4c1c-b42b-8069beef0f97.jpg)
