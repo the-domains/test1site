@@ -35,7 +35,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=DRaAVL7Jylg'
 title: 'The Sun, The Moon, The Stars, and Maya'
-datePublished: '2016-01-24T15:30:22.358Z'
+datePublished: '2016-01-24T15:30:22.364Z'
 dateModified: '2016-01-24T15:30:15.313Z'
 sourcePath: _posts/2016-01-23-the-sun-the-moon-the-stars-and-maya.md
 published: true
