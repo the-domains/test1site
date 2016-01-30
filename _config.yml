@@ -2,6 +2,7 @@ name: Test1site
 favicon: null
 layout_spectrum: 0.44943
 typography_spectrum: 0.3445
+title: Book and other Videos
 cta:
   domain: null
   bucket: null
