@@ -4,14 +4,14 @@
         <description><![CDATA[Test1site]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 14:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 14:04:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[a dream coming true]]></title>
-            <description><![CDATA[<article><h1>a dream coming true</h1><p>Is there anything </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67410267a2f4b0e3c3a2d72d37df128f14e12194.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/a-dream-coming-true/index.html</link>
-            <guid isPermaLink="false">f2e6a450-e345-4817-b539-43156f93364e</guid>
-            <pubDate>Sun, 24 Jan 2016 15:29:59 GMT</pubDate>
+            <title><![CDATA[The Sun, The Moon, The Stars, and Maya]]></title>
+            <description><![CDATA[<article><h1>The Sun, The Moon, The Stars, and Maya</h1><p>Video Trailer for the Book The Sun, the Moon, the Stars and Maya a very special book unique in format, richly textured with full color original illustrations using famous quotes as inspirations for short lyrical interpretations by Maya the magical puppy who speaks in rhyme all the time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c620958b7f9689d413a4a35033b7ffe7ee20960.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DRaAVL7Jylg</link>
+            <guid isPermaLink="false">0ad5f4af-9fe5-4454-8f90-abdfc66a1e76</guid>
+            <pubDate>Sat, 30 Jan 2016 14:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Embrace Every Step]]></title>
@@ -33,20 +33,6 @@
             <link>https://www.youtube.com/watch?v=U--__svptnU</link>
             <guid isPermaLink="false">5805a6fb-c70e-44a9-9af3-a140c6659a20</guid>
             <pubDate>Fri, 22 Jan 2016 11:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advantages]]></title>
-            <description><![CDATA[<article><h1>Advantages</h1><p>It is the greatest of all advantages to enjoy no advantage at all. - Henry David Thoreau.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3893913b72041f32405b8c671271bf3373a09b7c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/advantages/index.html</link>
-            <guid isPermaLink="false">88a4fddd-00d9-4d4e-b418-b7a540bc74bc</guid>
-            <pubDate>Fri, 08 Jan 2016 11:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nobody's Dinner]]></title>
-            <description><![CDATA[<article><h1>Nobody's Dinner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c450b41546ac64e3d80293133d5e1127a392b2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test1site/nobodys-dinner/index.html</link>
-            <guid isPermaLink="false">e537fd5f-77c6-4e44-b820-5ce9153d50b7</guid>
-            <pubDate>Wed, 30 Dec 2015 19:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
