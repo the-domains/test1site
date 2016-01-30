@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - rhymes
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=DRaAVL7Jylg'
 title: 'The Sun, The Moon, The Stars, and Maya'
-datePublished: '2016-01-30T14:03:16.349Z'
-dateModified: '2016-01-30T14:02:47.615Z'
+datePublished: '2016-01-30T14:03:38.558Z'
+dateModified: '2016-01-30T14:03:33.019Z'
 sourcePath: _posts/2016-01-30-the-sun-the-moon-the-stars-and-maya.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
