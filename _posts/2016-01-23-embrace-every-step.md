@@ -1,8 +1,7 @@
 ---
-datePublished: '2016-08-23T09:57:00.617Z'
+datePublished: '2016-08-25T13:12:13.915Z'
 sourcePath: _posts/2016-01-23-embrace-every-step.md
 inFeed: true
-isBasedOnUrl: 'https://www.youtube.com/watch?v=b4C2r9z-bZk'
 keywords:
   - duration
   - views
@@ -20,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 via: {}
-dateModified: '2016-08-23T09:57:00.282Z'
+dateModified: '2016-08-25T13:12:11.918Z'
 title: Embrace Every Step
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b4C2r9z-bZk&feature=applinks'
@@ -43,7 +42,9 @@ description: >-
   will be released in a week or so - This song was written and sung by my
   publisher after viewing my submission for edits. Thank you for watching.
 inLanguage: en
+hasPage: true
 starred: false
+url: embrace-every-step/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
