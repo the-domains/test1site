@@ -10,17 +10,20 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: 'Video Trailer for newest book Annie and Me, a shared journey home. You can buy this book at http://www.amazon.com/Annie-Me-Shared-Journey-Home/dp/1614772002/ref=sr_1_1?ie=UTF8&qid=1436698968&sr=8-1&keywords=Annie+and+Me+Rich+Okun www.thesunthemoonthestarsandmaya.com'
+description: >-
+  Video Trailer for newest book Annie and Me, a shared journey home. You can buy
+  this book at
+  http://www.amazon.com/Annie-Me-Shared-Journey-Home/dp/1614772002/ref=sr_1_1?ie=UTF8&qid=1436698968&sr=8-1&keywords=Annie+and+Me+Rich+Okun
+  www.thesunthemoonthestarsandmaya.com
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=U--__svptnU'
 title: Annie And Me
-datePublished: '2016-01-22T11:05:56.675Z'
-dateModified: '2016-01-22T11:02:45.694Z'
+datePublished: '2016-08-25T13:12:04.846Z'
+dateModified: '2016-08-25T13:12:04.344Z'
 sourcePath: _posts/2016-01-22-annie-and-me.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: annie-and-me/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
