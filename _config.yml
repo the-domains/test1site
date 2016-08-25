@@ -31,6 +31,9 @@ navigation:
   - name: Embrace Every Step
     id: fdda562e-9b7a-42c7-a11c-a96086641c0d
     type: content
+  - name: RichOkun
+    id: 8db0ec65-c150-4143-940d-3895b3886510
+    type: content
 favicon: null
 title: Book and other Videos
 purpose: []
