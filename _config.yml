@@ -34,6 +34,9 @@ navigation:
   - name: RichOkun
     id: 8db0ec65-c150-4143-940d-3895b3886510
     type: content
+  - name: 'The Sun, The Moon, The Stars, and Maya'
+    id: 0ad5f4af-9fe5-4454-8f90-abdfc66a1e76
+    type: content
 favicon: null
 title: Book and other Videos
 purpose: []
