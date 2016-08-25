@@ -37,17 +37,17 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=DRaAVL7Jylg&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=DRaAVL7Jylg'
 title: 'The Sun, The Moon, The Stars, and Maya'
-datePublished: '2016-08-25T13:09:26.176Z'
-dateModified: '2016-08-23T09:55:48.015Z'
+datePublished: '2016-08-25T13:12:27.171Z'
+dateModified: '2016-08-25T13:12:26.472Z'
 sourcePath: _posts/2016-01-30-the-sun-the-moon-the-stars-and-maya.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 authors: []
 via: {}
 starred: true
+url: the-sun-the-moon-the-stars-and-maya/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
