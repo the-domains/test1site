@@ -1,20 +1,4 @@
-name: Test1site
-favicon: null
-layout_spectrum: 0.44943
 typography_spectrum: 0.3445
-title: Book and other Videos
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#8a5937'
@@ -26,4 +10,24 @@ color:
   lightness: 0.625
   saturation: 0.25
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44943
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test1site
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Annie And Me
+    id: 5805a6fb-c70e-44a9-9af3-a140c6659a20
+    type: content
+favicon: null
+title: Book and other Videos
 purpose: []
