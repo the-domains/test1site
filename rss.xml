@@ -4,7 +4,7 @@
         <description><![CDATA[Book and other Videos]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:27:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Sun, The Moon, The Stars, and Maya]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/test1site/the-sun-the-moon-the-stars-and-maya/index.html</link>
             <guid isPermaLink="false">0ad5f4af-9fe5-4454-8f90-abdfc66a1e76</guid>
             <pubDate>Thu, 25 Aug 2016 13:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earth, Wind, Fire And Maya]]></title>
+            <description><![CDATA[<article><h1>Earth, Wind, Fire And Maya</h1><p>This is Book number 2 of a series Earth, Wind, Fire and Maya - Published by Bellissima Publishing January, 2014 The first book The Sun, the Moon, the Stars and Maya</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XSvB9wn73Qw</link>
+            <guid isPermaLink="false">80dc7f89-0053-4131-b29f-f2b7c9368963</guid>
+            <pubDate>Thu, 25 Aug 2016 18:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Annie And Me]]></title>
