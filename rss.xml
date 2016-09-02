@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Book and other Videos]]></title>
-        <description><![CDATA[Book and other Videos]]></description>
+        <title><![CDATA[Book Trailers]]></title>
+        <description><![CDATA[Book Trailers]]></description>
         <link>https://thegrid.ai/test1site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:32:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test1site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Sun, The Moon, The Stars, and Maya]]></title>
@@ -14,18 +14,25 @@
             <pubDate>Thu, 25 Aug 2016 13:12:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazon.com: Rich Okun: Books, Biography, Blog, Audiobooks, Kindle]]></title>
-            <description><![CDATA[<article><h1>Amazon.com: Rich Okun: Books, Biography, Blog, Audiobooks, Kindle</h1><p>Online shopping from a great selection at Books Store.</p></article>]]></description>
-            <link>https://www.amazon.com/Rich-Okun/e/B00DZO54IG/</link>
-            <guid isPermaLink="false">92cbceda-9d13-49e5-acb2-c4e2d209ce84</guid>
-            <pubDate>Thu, 25 Aug 2016 18:29:29 GMT</pubDate>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14ece33dc22b0823b4f550a1dbf040045f35bd03.jpg">]]></description>
+            <link>https://thegrid.ai/test1site/bio/index.html</link>
+            <guid isPermaLink="false">df29204d-8587-4ea8-90d6-5029e03801aa</guid>
+            <pubDate>Wed, 31 Aug 2016 09:32:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Earth, Wind, Fire And Maya]]></title>
             <description><![CDATA[<article><h1>Earth, Wind, Fire And Maya</h1><p>This is Book number 2 of a series Earth, Wind, Fire and Maya - Published by Bellissima Publishing January, 2014 The first book The Sun, the Moon, the Stars and Maya</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ef39699cbec7479d1b09908bf93a4f9/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXSvB9wn73Qw%2Fhqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=XSvB9wn73Qw</link>
+            <link>https://thegrid.ai/test1site/earth-wind-fire-and-maya/index.html</link>
             <guid isPermaLink="false">80dc7f89-0053-4131-b29f-f2b7c9368963</guid>
-            <pubDate>Thu, 25 Aug 2016 18:26:56 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 09:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon.com: Rich Okun: Books, Biography, Blog, Audiobooks, Kindle]]></title>
+            <description><![CDATA[<article><h1>Amazon.com: Rich Okun: Books, Biography, Blog, Audiobooks, Kindle</h1><p>Online shopping from a great selection at Books Store.</p></article>]]></description>
+            <link>https://thegrid.ai/test1site/amazoncom-rich-okun-books-biography-blog-audiobooks-k/index.html</link>
+            <guid isPermaLink="false">92cbceda-9d13-49e5-acb2-c4e2d209ce84</guid>
+            <pubDate>Thu, 25 Aug 2016 18:31:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Annie And Me]]></title>
