@@ -31,9 +31,6 @@ navigation:
   - name: Buy Books on Amazon
     url: 'https://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
-  - name: Annie And Me
-    id: 5805a6fb-c70e-44a9-9af3-a140c6659a20
-    type: content
   - name: Embrace Every Step
     id: fdda562e-9b7a-42c7-a11c-a96086641c0d
     type: content
@@ -42,6 +39,9 @@ navigation:
     type: content
   - name: 'Earth, Wind, Fire And Maya'
     id: 80dc7f89-0053-4131-b29f-f2b7c9368963
+    type: content
+  - name: Annie And Me
+    id: 5805a6fb-c70e-44a9-9af3-a140c6659a20
     type: content
 favicon: null
 title: Book Trailers
