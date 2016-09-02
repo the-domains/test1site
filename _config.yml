@@ -40,6 +40,9 @@ navigation:
   - name: 'Earth, Wind, Fire And Maya'
     id: 80dc7f89-0053-4131-b29f-f2b7c9368963
     type: content
+  - name: Bio
+    id: df29204d-8587-4ea8-90d6-5029e03801aa
+    type: content
 favicon: null
 title: Book Trailers
 description: Short trailers of published books
