@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Bio
+    id: df29204d-8587-4ea8-90d6-5029e03801aa
+    type: content
   - name: Annie And Me
     id: 5805a6fb-c70e-44a9-9af3-a140c6659a20
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: external
   - name: 'Earth, Wind, Fire And Maya'
     id: 80dc7f89-0053-4131-b29f-f2b7c9368963
-    type: content
-  - name: Bio
-    id: df29204d-8587-4ea8-90d6-5029e03801aa
     type: content
 favicon: null
 title: Book Trailers
