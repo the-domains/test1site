@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Bio
-    id: df29204d-8587-4ea8-90d6-5029e03801aa
-    type: content
   - name: Buy Books on Amazon
     url: 'https://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
