@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 'Earth, Wind, Fire And Maya'
-    id: 80dc7f89-0053-4131-b29f-f2b7c9368963
-    type: content
   - name: Embrace Every Step
     id: fdda562e-9b7a-42c7-a11c-a96086641c0d
     type: content
