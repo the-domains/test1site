@@ -24,13 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Embrace Every Step
-    id: fdda562e-9b7a-42c7-a11c-a96086641c0d
-    type: content
-  - name: Annie And Me
-    id: 5805a6fb-c70e-44a9-9af3-a140c6659a20
-    type: content
 favicon: null
 title: Book Trailers
 description: Short trailers of published books
