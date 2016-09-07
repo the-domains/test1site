@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Buy Books on Amazon
-    url: 'https://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
-    type: external
   - name: 'The Sun, The Moon, The Stars, and Maya'
     id: 0ad5f4af-9fe5-4454-8f90-abdfc66a1e76
     type: content
